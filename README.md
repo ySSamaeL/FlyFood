@@ -1,7 +1,6 @@
-# FlyFood
-🛸 FlyFood - Roteirização de Entregas com Drones FlyFood é um projeto acadêmico que simula um sistema de entregas utilizando drones em uma cidade representada por uma matriz. A proposta surgiu diante do desafio de realizar múltiplas, Essa versão contém uma solução bruta baseada no Problema do Caixeiro Viajante (TSP).
-
 # FlyFood - Roteirização de Entregas (Versão Força Bruta)
+
+🛸 FlyFood - Roteirização de Entregas com Drones FlyFood é um projeto acadêmico que simula um sistema de entregas utilizando drones em uma cidade representada por uma matriz. A proposta surgiu diante do desafio de realizar múltiplas, Essa versão contém uma solução bruta baseada no Problema do Caixeiro Viajante (TSP).
 
 O **FlyFood** é uma solução simples e visual para o problema de roteirização de entregas em um grid 2D, aplicando uma abordagem de **força bruta** para encontrar a rota ótima com base na **distância de Manhattan**.
 
