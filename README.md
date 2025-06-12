@@ -19,10 +19,10 @@ Ideal para fins educacionais e análise comparativa com algoritmos heurísticos 
 Entrada via `stdin` (input padrão). A primeira linha contém as dimensões da matriz, seguida das linhas da matriz:
 
 4 10
-a 0 0 I D 0 0 0 L 0
-0 A 0 0 0 G 0 0 E 0
-0 0 0 b C 0 0 0 0 0
-0 0 R 0 0 A 0 T 0 0
+a 0 0 I D 0 0 0 L 0  
+0 A 0 0 0 G 0 0 E 0  
+0 0 0 b C 0 0 0 0 0  
+0 0 R 0 0 A 0 T 0 0  
 
 
 - `R` representa o ponto de partida.
