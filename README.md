@@ -52,3 +52,18 @@ Também será exibido um gráfico com a rota ótima desenhada.
 - [matplotlib](https://matplotlib.org/)
 
 - Relatório: (https://docs.google.com/document/d/1BHEp4-_55aovDt1U9165fYheern9sPDG9hIsve7ZcE4/edit?usp=sharing)
+
+## Autores:
+
+Francisco José - francisco.jmagalhaes@ufrpe.br
+Gilvan Lemos - gilvanlemos7@gmail.com
+Mateus Araújo - mateus.araujof@ufrpe.br 
+Samuel Pereira - samuel.vasconcelos@ufrpe.br
+
+Orientador:
+Rodrigo Gabriel Ferreira Soares - rodrigo.gfsoares@ufrpe.br
+
+Recife
+Junho de 2025
+
+
